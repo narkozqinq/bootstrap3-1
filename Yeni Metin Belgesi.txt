@@ -1,3 +1,16 @@
 git config --global http.sslVerify false
+
 git init > git projesi oldugunu tanýmlar.
 
+git status > projedeki deðiþiklikleri
+gösterir.
+
+git add . > tum klasorur.
+
+git commit -m "açýklama" > yerel depoya dosyayýý yollar.
+git push -u takmaisim master > uzak depoya gonderme
+git remote add takma isim adress> uzak depo ekleme 
+
+git config --global user.email "burhan.yilmaz"
+git config --global user.name"burhan.yilmaz"
+ 
